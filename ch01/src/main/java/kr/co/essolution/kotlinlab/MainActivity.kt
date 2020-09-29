@@ -30,6 +30,10 @@ class MainActivity : AppCompatActivity()
        5. 스크링 부트를 이용한 Restful 서비스 -> 코틀린
      */
 
+    /*
+        git 연동
+     */
+
     override fun onCreate(savedInstanceState: Bundle?)
     {
         super.onCreate(savedInstanceState)
