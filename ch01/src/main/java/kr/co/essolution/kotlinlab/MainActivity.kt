@@ -30,8 +30,12 @@ class MainActivity : AppCompatActivity()
        5. 스크링 부트를 이용한 Restful 서비스 -> 코틀린
      */
 
-    /*
-        git 연동
+    /* gitHub Structure
+        Working Directory -> add -> Stage Area -> Commit -> Head(Local Git Reporitory) -> Push -> GitHub(Server)
+        1. Add : 관리하려는 목록에 추가
+        2. Commit : 관리할 파일들이 확정
+        3. Head : 로컬 저장소에 저장
+        4. Push : 원격 서버 GitHub에 발행
      */
 
     override fun onCreate(savedInstanceState: Bundle?)
